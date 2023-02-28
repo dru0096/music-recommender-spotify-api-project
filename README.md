@@ -1,6 +1,7 @@
 # Song Recommender Project :headphones:
 
-This is my submission for the GNOD project at Ironhack. Here I built a Song Recommender based on a K-Means Clustering model.
+This is my submission for the GNOD project at Ironhack. 
+Here I built a Song Recommender where you can discover new songs which sound similar to the one you are thinking of.
 
 
 For the data to be used:
