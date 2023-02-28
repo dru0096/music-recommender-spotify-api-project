@@ -1,8 +1,6 @@
 # Song Recommender Project :headphones:
 
-This is my submission for the GNOD project at Ironhack. 
-Here I built a Song Recommender where you can discover new songs which sound similar to the one you are thinking of.
-
+This is my submission for the GNOD project at Ironhack where I built a Song Recommender to discover new songs which sound similar to the one you are thinking of.
 
 For the data to be used:
 
