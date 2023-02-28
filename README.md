@@ -1,7 +1,6 @@
 # Song Recommender Project :headphones:
 
-## Bootcamp Challenge:
-This is my submission for the GNOD project from Ironhack. Here I built a Song Recommender based on a K-Means Clustering model.
+This is my submission for the GNOD project at Ironhack. Here I built a Song Recommender based on a K-Means Clustering model.
 
 
 For the data to be used:
